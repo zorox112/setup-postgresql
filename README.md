@@ -1,7 +1,7 @@
 ## Для запуска нужно написать:
 
 ```bash
-chmod +x setup_postgresql.sh
+chmod +x setup-postgresql.sh
 
-sudo ./setup_postgresql.sh mysecretpassword
+sudo ./setup-postgresql.sh mysecretpassword
 ```
